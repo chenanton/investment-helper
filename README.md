@@ -52,7 +52,8 @@ Ex: filters Industry
 - the function would take in the industry they put as well as a list of objects of companies.
 - Checks whether the industry name matches the industry name in each object and iterates over every object.
 - returns the list of objects that fits the criteria
-- repeat with the other filters 
+- repeat with the other filters
+4. Lastly it filters one more time with the results from the machine learned market trend analysis. Specifically, it will filter out companies with trends that are about to go downhill. 
 
 
 
