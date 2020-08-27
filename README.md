@@ -30,7 +30,7 @@ Access the wiki database and download the companies by industry all at once(mayb
 Find the price index data for all those companies and train(machine learning)
 
 https://www.opensecrets.org/industries/alphalist.php
-https://en.wikipedia.org/wiki/Category:Lists_of_companies_by_industry
+https://en.wikipedia.org/wiki/Category:Companies_by_industry
 
 Company Size
 Top 2000 companies
@@ -50,7 +50,7 @@ https://www.forbes.com/global2000/#5cd2dda5335d
         - Checks whether the industry name matches the industry name in each object and iterates over every object.
         - Returns the list of objects that fits the criteria  
         - Repeat with the other filters
-4. Lastly it filters one more time with the results from the machine learned market trend analysis. Specifically, it will filter out companies with trends that are about to go downhill. 
+4. Lastly it filters one more time with the results from the machine learned market trend analysis. Specifically, it will filter out companies with trends that are about to go downhill.
 
 ## FAQs
 > How often are models adjusted?
